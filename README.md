@@ -6,7 +6,7 @@ Passionate about open source, crafting code with heart. Tech Autodidact, Enginee
 - ⚡ Pushing boundaries, merging creativity with code
 - 🌱 Fueling ambition with a thirst for learning
 - 😄 Exploring passions, one adventure at a time
-- 💬 Reach out in case interested in - Javascript, Node Js, React Js, Vue Js, Python, MySQL, MongoDB, Redis [here](https://github.com/vulrun/vulrun/issues)
+- 💬 Reach out in case interested in - Javascript, Node Js, React Js, Vue Js, Python, MySQL, MongoDB, Redis [here](https://github.com/vulrun/vulrun/discussions)
 
 ---
 
