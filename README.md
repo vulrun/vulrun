@@ -24,7 +24,7 @@ Passionate about open source, crafting code with heart. Tech Autodidact, Enginee
 <a href="https://gitlab.com/vulrun"><img alt="GitHub" src="https://img.shields.io/badge/gitlab-e2432a?style=for-the-badge" /></a>
 <a href="https://in.linkedin.com/in/vulrun"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-0077b5.svg?style=for-the-badge" /></a>
 <a href="https://twitter.com/vulrun"><img alt="Twitter" src="https://img.shields.io/badge/TWITTER-00aced.svg?style=for-the-badge" /></a>
-<img alt="abc" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fvulrun%2Fvulrun.json&style=for-the-badge" />
+<img alt="hits" src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fvulrun%2Fvulrun&label=HITS&__icon=heart-fill&color=%23ff7575&message=&style=for-the-badge&tz=UTC" />
 
 <p align="center">
 <a href="https://www.buymeacoffee.com/appgo"><img alt="buymeacoffee" align="center" src="https://miro.medium.com/v2/resize:fit:120/1*VJdus0nKuy1uNoByh5BN3w.png" /></a>
